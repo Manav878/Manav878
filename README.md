@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Manav<br><br>Software and systems enthusiast with interest in building practical tools, experimenting with new ideas, and improving things through code.<br>Focused on clean design, reliability, and learning better ways to solve problems.<br><br>Currently exploring: automation, Artificial Intelligence and lightweight productivity tools.<br><br>Always learning, always improving.
+Hello, I’m Manav<br><br>Software enthusiast with interest in building Artificial Intelligence, experimenting with new ideas, and improving things through code.<br>Focused on clean design, reliability, and learning better ways to solve problems.<br><br>Currently exploring: automation, Artificial Intelligence and lightweight productivity tools.<br><br>Always learning, always improving.
 
 
 ## 🌐 Socials:
